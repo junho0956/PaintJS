@@ -7,8 +7,8 @@ const modeButton = document.querySelector('#btnModejs');
 const savebtn = document.getElementById('btnSaveJs');
 const clearbtn = document.getElementById('clearJS');
 
-canvas.width = 600;
-canvas.height = 500;
+canvas.width = 700;
+canvas.height = 700;
 
 ctx.fillStyle = 'white';
 ctx.fillRect(0,0,canvas.width, canvas.height);
